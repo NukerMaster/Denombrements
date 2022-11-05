@@ -22,7 +22,7 @@ namespace Denombrements
                     jf
 
                 if (c == 1)
-                {   
+                {   Dictionary fiati hnaiojrtghjkseztgkjsbdg
                     // le nombre d'éléments à gérer et saisie
                     Console.Write("nombre total d'éléments à gérer = "); 
 

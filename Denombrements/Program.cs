@@ -9,7 +9,7 @@ namespace Denombrements
     class Program
     {
         static void Main(string[] args)
-        {   // déclaration
+        {   // déclaration valeur
             int c = 1;
 
             // Condition

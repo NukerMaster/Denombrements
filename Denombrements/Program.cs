@@ -11,18 +11,15 @@ namespace Denombrements
         static void Main(string[] args)
         {   // déclaration valeur
             int c = 1;
-
+            fghfgh
             // Condition
             while (c != 0)
-            {
-                Console.WriteLine("Permutation ...................... 1");
-                Console.WriteLine("Arrangement ...................... 2");
-                Console.WriteLine("Combinaison ...................... 3");
+            {fthyufgtjfghykfyjkfg............. 1");h
+                Console.WriteLine("Arrangement fgh...................... 2");
+                Console.WriteLine("Combinaison .....hj............. 3");
                 Console.WriteLine("Quitter .......................... 0");
-                Console.Write("Choix :                            ");
-                c = int.Parse(Console.ReadLine());
-
-                if (c == 0) { Environment.Exit(0); }
+                Console.Write("Choix :                       fg
+                    jf
 
                 if (c == 1)
                 {   
